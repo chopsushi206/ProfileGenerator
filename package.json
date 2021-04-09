@@ -1,0 +1,35 @@
+{
+  "name": "profilegenerator",
+  "version": "1.0.0",
+  "description": "Generates profiles for employees based off user input",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chopsushi206/ProfileGenerator.git"
+  },
+  "keywords": [
+    "profile",
+    "generator",
+    "employee",
+    "work",
+    "team"
+  ],
+  "author": "Li Hua Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chopsushi206/ProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/chopsushi206/ProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.5.2"
+  }
+}
